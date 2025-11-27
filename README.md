@@ -10,9 +10,9 @@
 
 ## Project Overview
 
-This project is a Spring Boot microservice designed to model a complex telecommunications network topology using Neo4j, a graph database. It demonstrates capabilities for **impact analysis** (identifying affected services when a network element fails) and **root cause analysis** (tracing issues from a degraded service back to potential failing network elements).
+**A reference implementation demonstrating how Graph Databases (Neo4j) outperform RDBMS in modeling complex Telecom Network Topologies and performing real-time Root Cause Analysis.**
 
-Built with a focus on demonstrating skills relevant to **Principal Engineer/Architect roles** in the telecom domain, leveraging graph database strengths for correlation and analytics in a service assurance context.
+This project is a Spring Boot microservice designed to model a complex telecommunications network topology using Neo4j, a graph database. It demonstrates capabilities for **impact analysis** (identifying affected services when a network element fails) and **root cause analysis** (tracing issues from a degraded service back to potential failing network elements).
 
 ## Key Features
 
