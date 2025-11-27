@@ -17,7 +17,7 @@ This project is a Spring Boot microservice designed to model a complex telecommu
 ## Key Features
 
 * **Graph Data Model:** Represents diverse network elements (Routers, Shelves, Cards, Ports, RAN Nodes, Core Network Functions) and their intricate relationships (containment, connectivity, service dependencies).
-* **Data Seeding:** Automatically populates the Neo4j database with sample Verizon-like wireline and wireless network data upon application startup.
+* **Data Seeding:** Automatically populates the Neo4j database with realistic, enterprise-grade wireline and wireless network data upon application startup.
 * **RESTful APIs:** Exposes endpoints for:
     * Retrieving network elements.
     * Performing **Impact Analysis**: Given a network element ID, determine all downstream services that would be affected by its failure.
